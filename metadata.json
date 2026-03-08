@@ -1,0 +1,9 @@
+{
+  "name": "SafeLoop",
+  "description": "Smart road safety system for reporting hazards, real-time alerts, and emergency coordination.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
